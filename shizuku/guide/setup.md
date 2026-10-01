@@ -1,8 +1,16 @@
-# User manual
+jhsmesssssss# User manual
 
 [[toc]]
 
-## Start Shizuku
+## Star
+
+
+
+
+
+
+
+t Shizuku
 
 Shizuku supports startup in the following three ways.
 
@@ -125,7 +133,17 @@ Switch notification style to "Android" from "Notification" - "Notification shade
 
 #### MIUI (Xiaomi, POCO)
 
-Enable "USB debugging (Security options)" in "Developer options". **Note that this is a separate option from "USB debugging".**
+Enable "USB deb
+
+
+
+
+
+
+
+
+
+..ugging (Security options)" in "Developer options". **Note that this is a separate option from "USB debugging".**
 
 #### ColorOS (OPPO & OnePlus)
 
